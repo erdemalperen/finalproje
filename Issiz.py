@@ -6,7 +6,6 @@ class Issiz(Insan):
         self._tecrube_dict = tecrube_dict
         self._statu = self.statu_bul()
 
-    # getter and setter methods for tecrube_dict
     def get_tecrube_dict(self):
         return self._tecrube_dict
 
